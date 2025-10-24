@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SultanARIA1387
-- 👀 I’m interested in Python
+- 👋 Hi, I’m Aria Kamari
+- 👀 I’m interested in Front-End
 - 🌱 I’m currently learning HTML / CSS
 - 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me 
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-SultanARIA1387/SultanARIA1387 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ARiA Kamri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
